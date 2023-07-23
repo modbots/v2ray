@@ -402,7 +402,7 @@ main() {
 
     load core.sh
     # create a tcp config
-    add tcp
+    add ws
     # remove tmp dir and exit.
     exit_and_del_tmpdir ok
 }
